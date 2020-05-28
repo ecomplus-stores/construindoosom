@@ -1,11 +1,11 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
-  "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
+  "store_id": 1101,
+  "name": "construindoosom",
+  "domain": "construindoosom.netlify.app",
+  "short_name": "construindoosom",
+  "description": "",
+  "primary_color": "#7a7a7a",
+  "secondary_color": "#000000",
   "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_"
