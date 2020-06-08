@@ -1,7 +1,7 @@
 {
   "domain": "construindoosom.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#313c5b",
+  "primary_color": "#ae7856",
   "theme": {
     "bootswatch": "litera"
   },
@@ -14,7 +14,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/logo.png",
   "country_code": "BR",
-  "secondary_color": "#4d4d4d",
+  "secondary_color": "#313c5b",
   "icon": "/img/uploads/logo.png",
   "store_id": 1101,
   "description": "O Ateliê Construindo o Som produz instrumentos musicais artesanais de excelência para atender à demanda de terapeutas e educadores musicais, sempre buscando oferecer recursos sonoros que possam enriquecer e otimizar suas práticas.",
