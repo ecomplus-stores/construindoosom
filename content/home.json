@@ -7,23 +7,24 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
+          "img": "/img/uploads/slidemetalofone1.png",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
         },
         {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/slidexylo11.png",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
+        },
+        {
+          "start": "2020-06-08T15:03:28.381Z",
+          "end": "2020-06-08T15:03:28.404Z",
+          "img": "/img/uploads/xilofonesselide1.png"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
