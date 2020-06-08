@@ -54,10 +54,6 @@
     },
     {
       "type": "custom-html",
-      "html": "<br><!-- SnapWidget -->\n<iframe src=\"https://snapwidget.com/embed/535414\" class=\"snapwidget-widget\" allowTransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"border:none; overflow:hidden; width:100%; height:250px\"></iframe>"
-    },
-    {
-      "type": "custom-html",
       "html": "<br><div class=\"emailcaixa\">\n            <div class=\"email\">Cadastre seu e-mail para receber novidades e ofertas especiais</div>\n            <form action=\"javascript:void(0);\" method=\"post\" name=\"news\">\n              <div class=\"input-group\">\n                <input type=\"email\" name=\"email\" placeholder=\"seuemail@mail.com\" class=\"form-control\" required=\"\">\n                <span class=\"input-group-btn\">\n                  <button class=\"btn btn-primary\" type=\"submit\">Inscrever</button>\n                </span>\n              </div>\n            </form>\n          </div>\n\n<br>\n<br>"
     }
   ]
