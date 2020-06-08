@@ -30,6 +30,27 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/klak-klak-trio.png",
+          "link": "https://loja.construindoosom.com.br/klak-klaks/"
+        },
+        {
+          "img": "/img/uploads/barrassonorastrio.png",
+          "link": "https://loja.construindoosom.com.br/barras-sonoras/"
+        },
+        {
+          "img": "/img/uploads/tambor-de-fenda.png",
+          "link": "https://loja.construindoosom.com.br/tambor-de-fenda/"
+        }
+      ]
+    },
+    {
+      "type": "custom-content",
+      "markdown": "<!--StartFragment-->\n\n![](/img/uploads/homeconstruindo.png)\n\n##### ***Nossa missão é produzir veículos sonoros de qualidade, com design e acabamento sofisticados, visando atender à demanda de escolas de música e núcleos de musicoterapia em todo o país.***\\\n**Os instrumentos musicais apresentados nesta loja são produzidos por Roberto Luis Castro, músico, educador musical e luthier especializado no segmento de percussão de barras. Sua experiência soma 40 anos dedicados à pesquisa e construção de materiais sonoros voltados especificamente para utilização nas áreas de musicoterapia e educação musical.**\\\n**A vitrine da loja é constituída na sua quase totalidade por modelos exclusivos, criados pelo autor. Os instrumentos da marca \"Construindo o Som\" estão disponíveis unicamente através da nossa loja virtual e nós enviamos par**a todo o Brasil. Compre online com toda segurança, utilizando as diversas opções de pagamento que oferecemos. Se necessário, solicite mais informações ou envie sugestões através do e-mail ou do formulário de contato.\\\nAtendimento personalizado via WhatsApp ( 71 9.9129-2169) ,[clique aqui e fale conosco.](https://api.whatsapp.com/send?1=pt_BR&phone=55071991292169 \"Clique aqui e fale conosco.\")\n\n<!--EndFragment-->"
     }
   ]
 }
