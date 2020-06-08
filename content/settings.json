@@ -1,22 +1,22 @@
 {
-  "store_id": 1101,
-  "name": "construindoosom",
   "domain": "construindoosom.netlify.app",
-  "short_name": "construindoosom",
-  "description": "",
-  "primary_color": "#7a7a7a",
-  "secondary_color": "#000000",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#313c5b",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "litera"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Construindo o som",
+  "short_name": "Construindo o som",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo.png",
+  "country_code": "BR",
+  "secondary_color": "#4d4d4d",
+  "icon": "/img/uploads/logo.png",
+  "store_id": 1101,
+  "description": "O Ateliê Construindo o Som produz instrumentos musicais artesanais de excelência para atender à demanda de terapeutas e educadores musicais, sempre buscando oferecer recursos sonoros que possam enriquecer e otimizar suas práticas.",
+  "large_icon": "/img/uploads/logo.png"
 }
