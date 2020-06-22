@@ -3,11 +3,12 @@
   "currency_symbol": "R$",
   "primary_color": "#ae7856",
   "theme": {
-    "bootswatch": "litera"
+    "bootswatch": "litera",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "name": "Construindo o som",
+  "name": "Ateliê Construindo o Som",
   "short_name": "Construindo o som",
   "lang": "pt_br",
   "currency": "BRL",
