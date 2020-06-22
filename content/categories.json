@@ -9,11 +9,11 @@
     },
     {
       "type": "document-banner",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "category-retail",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "document-description",
