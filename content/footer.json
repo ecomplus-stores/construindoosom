@@ -30,20 +30,22 @@
     {}
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
+    "diners": true,
     "mais": false,
-    "itau": true
+    "amex": true,
+    "itau": false
   },
-  "credits": ""
+  "credits": "© Ateliê Construindo o Som - Roberto Luis de Castro 11814055568 | CNPJ: 29.524.026/0001-10 | Salvador - BA"
 }
