@@ -1,5 +1,5 @@
 {
-  "css": "<style>\n@import url ('https://fonts.googleapis.com/css2? family = Didact + Gothic & display = swap'); </style>",
-  "html_head": "<link href = \"https://fonts.googleapis.com/css2? family = Didact + Gothic & display = swap\" rel = \"folha de estilo\">",
+  "css": "",
+  "html_head": "<link href = \"https://fonts.googleapis.com/css2? family = Didact + Gothic & display = swap\" rel = \"folha de estilo\">\n<style>\n@import url ('https://fonts.googleapis.com/css2? family = Didact + Gothic & display = swap'); </style>\n",
   "html_body": ""
 }
