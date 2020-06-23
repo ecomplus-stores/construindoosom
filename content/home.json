@@ -32,15 +32,15 @@
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": null,
-      "sort": "sales",
-      "title": "ITENS MAIS POPULARES"
+      "sort": "news",
+      "title": "NOVIDADES"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/klak-klak-trio.png",
-          "link": "/klak-klaks"
+          "link": "/percussao-diversos"
         },
         {
           "img": "/img/uploads/barrassonorastrio.png",
