@@ -8,7 +8,7 @@
       "slides": [
         {
           "img": "/img/uploads/slidemetalofone1.png",
-          "link": "/headset",
+          "link": "/home",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
@@ -17,19 +17,22 @@
           "img": "/img/uploads/slidexylo11.png",
           "alt": "Banner sample two",
           "start": "",
-          "end": ""
+          "end": "",
+          "link": "/home"
         },
         {
           "start": "2020-06-08T15:03:28.381Z",
           "end": "2020-06-08T15:03:28.404Z",
-          "img": "/img/uploads/xilofonesselide1.png"
+          "img": "/img/uploads/xilofonesselide1.png",
+          "link": "/xilofones"
         }
       ]
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null
+      "collection_id": null,
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
@@ -40,11 +43,11 @@
         },
         {
           "img": "/img/uploads/barrassonorastrio.png",
-          "link": "https://loja.construindoosom.com.br/barras-sonoras/"
+          "link": "/barras-sonoras"
         },
         {
           "img": "/img/uploads/tambor-de-fenda.png",
-          "link": "https://loja.construindoosom.com.br/tambor-de-fenda/"
+          "link": "/tambor-de-fenda"
         }
       ]
     },
