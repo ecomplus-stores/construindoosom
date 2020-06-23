@@ -8,7 +8,7 @@
       "slides": [
         {
           "img": "/img/uploads/slidemetalofone1.png",
-          "link": "/",
+          "link": "/metalofones",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
@@ -18,7 +18,7 @@
           "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "link": "/"
+          "link": "/xylo-tongs"
         },
         {
           "start": "2020-06-08T15:03:28.381Z",
@@ -39,7 +39,7 @@
       "banners": [
         {
           "img": "/img/uploads/klak-klak-trio.png",
-          "link": "https://loja.construindoosom.com.br/klak-klaks/"
+          "link": "/klak-klaks"
         },
         {
           "img": "/img/uploads/barrassonorastrio.png",
