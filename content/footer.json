@@ -9,7 +9,7 @@
     "list": []
   },
   "links_2": {
-    "list_categories": false,
+    "list_categories": true,
     "title": "",
     "list": []
   },
@@ -36,7 +36,7 @@
     "aura": false,
     "banrisul": false,
     "elo": false,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
