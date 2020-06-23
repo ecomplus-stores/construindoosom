@@ -33,7 +33,11 @@
     },
     {
       "src": "/img/uploads/nortonsafeweb.png"
-    }
+    },
+    {},
+    {},
+    {},
+    {}
   ],
   "payment_methods": {
     "bb": false,
