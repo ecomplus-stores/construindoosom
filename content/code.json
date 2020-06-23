@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "<style>\n@import url ('https://fonts.googleapis.com/css2? family = Didact + Gothic & display = swap'); </style>",
   "html_head": "",
   "html_body": ""
 }
