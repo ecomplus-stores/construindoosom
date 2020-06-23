@@ -8,7 +8,7 @@
       "slides": [
         {
           "img": "/img/uploads/slidemetalofone1.png",
-          "link": "/home",
+          "link": "/",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
@@ -18,7 +18,7 @@
           "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "link": "/home"
+          "link": "/"
         },
         {
           "start": "2020-06-08T15:03:28.381Z",
