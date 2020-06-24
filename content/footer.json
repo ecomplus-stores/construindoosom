@@ -29,9 +29,6 @@
       "src": "/img/uploads/googlesafebrowsing.png"
     },
     {
-      "src": "/img/uploads/lets.png"
-    },
-    {
       "src": "/img/uploads/nortonsafeweb.png"
     },
     {},
@@ -53,7 +50,7 @@
     "mastercard": true,
     "paypal": true,
     "citibank": false,
-    "diners": true,
+    "diners": false,
     "mais": false,
     "amex": true,
     "itau": false
