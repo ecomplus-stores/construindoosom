@@ -9,23 +9,23 @@
         {
           "img": "/img/uploads/slidemetalofone1.png",
           "link": "/metalofones",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "alt": "Metalofones Construindo o Som",
+          "start": "",
+          "end": ""
         },
         {
           "img": "/img/uploads/slidexylo11.png",
-          "alt": "Banner sample two",
+          "alt": "Xylo-Tongs Construindo o Som",
           "start": "",
           "end": "",
           "link": "/xylo-tongs"
         },
         {
-          "start": "2020-06-08T15:03:28.381Z",
-          "end": "2020-06-08T15:03:28.404Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/xilofonesselide1.png",
           "link": "/xilofones",
-          "alt": "Banner sample three"
+          "alt": "Xilofones Construindo o Som"
         }
       ]
     },
