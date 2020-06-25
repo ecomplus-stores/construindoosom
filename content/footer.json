@@ -26,11 +26,12 @@
       "alt": "Secure connection"
     },
     {
-      "src": "/img/uploads/googlesafebrowsing.png"
+      "src": "/img/uploads/selo_safebrowsing.png"
     },
     {
       "src": "/img/uploads/nortonsafeweb.png"
-    }
+    },
+    {}
   ],
   "payment_methods": {
     "bb": false,
