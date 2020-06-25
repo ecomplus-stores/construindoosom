@@ -31,7 +31,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": null,
       "sort": "lowest_price",
       "title": "NOVIDADES"
@@ -41,15 +41,18 @@
       "banners": [
         {
           "img": "/img/uploads/klak-klak-trio.png",
-          "link": "/klak-klak-de-madeira-marchetada"
+          "link": "/klak-klak-de-madeira-marchetada",
+          "alt": "Klak-klak - instrumentos musicais"
         },
         {
           "img": "/img/uploads/barrassonorastrio.png",
-          "link": "/barras-sonoras"
+          "link": "/barras-sonoras",
+          "alt": "Barras Sonoras - instrumentos musicais"
         },
         {
           "img": "/img/uploads/tambor-de-fenda.png",
-          "link": "/tambor-de-fenda"
+          "link": "/tambor-de-fenda",
+          "alt": "Tambor de Fenda - instrumentos musicais"
         }
       ]
     },
