@@ -1,9 +1,9 @@
 {
   "pkg": "@ecomplus/widget-ebit",
-  "active": false,
+  "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
-  "disablePages": true,
+  "disablePages": false,
   "options": {
     "ebitStoreId": "106753"
   },
