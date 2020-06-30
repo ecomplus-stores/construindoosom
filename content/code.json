@@ -1,5 +1,5 @@
 {
-  "css": "@media screen and (min-width: 992px) and (max-width: 1367px) {\n//slider full\n.banner-slider {\nmax-width: 100%;\n}\n}\nbody, p, .btn {\n  font-family: 'Didact Gothic', sans-serif !important;\n}",
+  "css": "@media screen and (min-width: 992px) and (max-width: 1367px) {\n//slider full\n.banner-slider {\nmax-width: 100%;\n}\nbody, p, .btn {\n  font-family: 'Didact Gothic', sans-serif !important;\n}",
   "html_head": "<meta name=\"google-site-verification\" content=\"OQ8GcE9Sdv3EOVlHUCJBcRH6Bf0mBt-BuDU6c8WW2sQ\" />\n<meta name=\"p:domain_verify\" content=\"5fa086bb33650c739c94cd6ef805ec90\"/>\n",
   "html_body": ""
 }
