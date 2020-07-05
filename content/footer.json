@@ -4,9 +4,38 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "text": "Sobre nós",
+        "url": "/pages/sobre"
+      },
+      {
+        "text": "Depoimentos",
+        "url": "/pages/depoimentos"
+      },
+      {
+        "text": "Dúvidas frequentes",
+        "url": "/pages/faq"
+      },
+      {
+        "text": "Formas de pagamento",
+        "url": "/pages/pagamentos"
+      },
+      {
+        "text": "Trocas e devoluções",
+        "url": "/pages/trocas"
+      },
+      {
+        "text": "Termos de serviço",
+        "url": "/pages/termos"
+      },
+      {
+        "text": "Política de privacidade",
+        "url": "/pages/privacidade"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
