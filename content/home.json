@@ -32,10 +32,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "title": "INSTRUMENTOS ESCOLARES",
+      "title": "INICIAÇÃO MUSICAL",
       "sort": "lowest_price",
-      "link": "",
-      "collection_id": "5f03805014ff772fde7db4f4"
+      "link": "/iniciacao-musical",
+      "collection_id": null
     },
     {
       "type": "collection-shelf",
