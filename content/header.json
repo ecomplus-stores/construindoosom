@@ -4,7 +4,12 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Sobre Nós",
+        "link": "/pages/sobre-nos"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
