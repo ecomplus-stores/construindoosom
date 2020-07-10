@@ -16,8 +16,8 @@
   "favicon": "/img/uploads/icone-perfil2.jpg",
   "country_code": "BR",
   "secondary_color": "#313c5b",
-  "icon": "/img/uploads/logo.png",
+  "icon": "/img/uploads/icone-perfil2.jpg",
   "store_id": 1101,
   "description": "<div align=\"justify\">O Ateliê Construindo o Som produz instrumentos musicais artesanais de excelência para atender à demanda de terapeutas e educadores musicais, sempre buscando oferecer recursos sonoros que possam enriquecer e otimizar suas práticas. </div>",
-  "large_icon": "/img/uploads/icone-perfil2.jpg"
+  "large_icon": "/img/uploads/logo.png"
 }
