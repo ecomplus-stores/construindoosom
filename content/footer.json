@@ -12,6 +12,10 @@
         "url": "/pages/sobre-nos"
       },
       {
+        "text": "Catálogo",
+        "url": "/pages/catalogo"
+      },
+      {
         "text": "Depoimentos",
         "url": "/pages/depoimentos"
       },
@@ -34,10 +38,6 @@
       {
         "text": "Política de privacidade",
         "url": "/pages/privacidade"
-      },
-      {
-        "text": "Catálogo",
-        "url": "/pages/catalogo"
       }
     ]
   },
