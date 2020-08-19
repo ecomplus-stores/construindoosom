@@ -48,7 +48,7 @@
     }
   ],
   "payment_methods": {
-    "bb": false,
+    "bb": true,
     "visa": true,
     "boleto": true,
     "aura": false,
