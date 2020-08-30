@@ -60,7 +60,8 @@
         {
           "img": "/img/uploads/barrassonorastrio.webp",
           "link": "/barras-sonoras",
-          "alt": "Barras Sonoras - instrumentos musicais"
+          "alt": "Barras Sonoras - instrumentos musicais",
+          "mobile_img": "/img/uploads/barrassonorastrio.png"
         },
         {
           "img": "/img/uploads/tambor-de-fenda.webp",
