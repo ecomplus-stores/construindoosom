@@ -54,7 +54,8 @@
         {
           "img": "/img/uploads/klak-klak-trio.webp",
           "link": "/klak-klak-de-madeira-marchetada",
-          "alt": "Klak-klak - instrumentos musicais"
+          "alt": "Klak-klak - instrumentos musicais",
+          "mobile_img": "/img/uploads/klak-klak-trio.png"
         },
         {
           "img": "/img/uploads/barrassonorastrio.webp",
