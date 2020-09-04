@@ -4,31 +4,15 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 0,
       "slides": [
         {
-          "img": "/img/uploads/slidemetalofone1.webp",
-          "link": "/metalofones",
-          "alt": "Metalofones - instrumentos musicais, veja mais modelos na loja Construindo o Som",
+          "img": "/img/uploads/atelie-construindo-o-som.webp",
+          "link": "",
+          "alt": "Instrumentos musicais, veja mais modelos na loja Construindo o Som",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/slidemetalofone1.png"
-        },
-        {
-          "img": "/img/uploads/slidexylo11.webp",
-          "alt": "Xylo-Tongs - instrumentos musicais, veja mais modelos na loja Construindo o Som",
-          "start": "",
-          "end": "",
-          "link": "/xylo-tongs",
-          "mobile_img": "/img/uploads/slidexylo11.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/xilofonesselide1.webp",
-          "link": "/xilofones",
-          "alt": "Xilofones - instrumentos musicais, veja mais modelos na loja Construindo o Som",
-          "mobile_img": "/img/uploads/xilofonesselide1.png"
+          "mobile_img": "/img/uploads/atelie-construindo-o-som.png"
         }
       ]
     },
