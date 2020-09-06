@@ -9,19 +9,27 @@
       "alt": "Ateliê Construindo o Som | Instrumentos Musicais de Fabricação Própria"
     },
     {
+      "type": "custom-content",
+      "markdown": "![Iniciação Musical Veja Mais](/img/uploads/iniciacao-musical.webp \"Iniciação Musical Veja Mais\")"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
-      "title": "INICIAÇÃO MUSICAL   Veja+",
+      "title": "",
       "sort": "lowest_price",
       "link": "/iniciacao-musical",
       "collection_id": "5f03805014ff772fde7db4f4"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "![Instrumentos Orff Veja Mais](/img/uploads/instrumentos-orff.webp \"INSTRUMENTOS ORFF\")"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": "5f037b1e14ff772fde7db06b",
       "sort": "highest_price",
-      "title": "INSTRUMENTOS ORFF   Veja+",
+      "title": "",
       "link": "/instrumentos-orff"
     },
     {
