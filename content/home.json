@@ -10,7 +10,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "![Iniciação Musical Veja Mais](/img/uploads/iniciacao-musical.webp \"Iniciação Musical Veja Mais\")"
+      "markdown": "![Iniciação Musical Veja Mais](/img/uploads/iniciacao-musical.webp \"Iniciação Musical Veja Mais\")\n\n```\n\n```"
     },
     {
       "type": "collection-shelf",
