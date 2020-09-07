@@ -28,10 +28,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/klak-klak-de-madeira_grid.webp",
-          "link": "/klak-klak-de-madeira-marchetada",
-          "alt": "Klak-klak - instrumentos musicais",
-          "mobile_img": "/img/uploads/klak-klak-de-madeira_grid.png"
+          "img": "/img/uploads/tambor-de-fenda_grid.webp",
+          "link": "/tambor-de-fenda",
+          "alt": "Tambor de Fenda - instrumentos musicais",
+          "mobile_img": "/img/uploads/tambor-de-fenda_grid.png"
         },
         {
           "img": "/img/uploads/barras-sonoras_grid.webp",
@@ -40,10 +40,10 @@
           "mobile_img": "/img/uploads/barras-sonoras_grid.png"
         },
         {
-          "img": "/img/uploads/tambor-de-fenda_grid.webp",
-          "link": "/tambor-de-fenda",
-          "alt": "Tambor de Fenda - instrumentos musicais",
-          "mobile_img": "/img/uploads/tambor-de-fenda_grid.png"
+          "img": "/img/uploads/klak-klak-de-madeira_grid.webp",
+          "link": "/klak-klak-de-madeira-marchetada",
+          "alt": "Klak-klak - instrumentos musicais",
+          "mobile_img": "/img/uploads/klak-klak-de-madeira_grid.png"
         }
       ]
     },
