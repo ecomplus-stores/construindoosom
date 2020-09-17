@@ -26,6 +26,10 @@
       {
         "text": "Termos de Uso",
         "url": "/pages/termos"
+      },
+      {
+        "url": "/pages/envio",
+        "text": "Política de Envio e Prazos de Entrega"
       }
     ]
   },
