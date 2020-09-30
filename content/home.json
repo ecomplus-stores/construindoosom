@@ -3,6 +3,17 @@
   "meta_description": "Instrumentos musicais artesanais para Musicoterapia e Educação Musical, produzidos por Roberto Luis Castro, músico, educador, luthier especializado em instrumentos melódicos de percussão: xilofones, metalofones e outros.",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "slides": [
+        {
+          "start": "2020-09-30T18:48:29.195Z",
+          "end": "2020-09-30T18:48:29.256Z",
+          "img": "/img/uploads/atelie-construindo-o-som.webp"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/atelie-construindo-o-som.webp",
       "mobile_img": "/img/uploads/atelie-construindo-o-som.png",
