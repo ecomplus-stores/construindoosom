@@ -7,10 +7,11 @@
       "autoplay": 0,
       "slides": [
         {
-          "start": "2020-09-30T18:48:29.195Z",
-          "end": "2020-09-30T18:48:29.256Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/atelie-construindo-o-som.webp",
-          "alt": "Ateliê Construindo o Som | Instrumentos Musicais de Fabricação Própria"
+          "alt": "Ateliê Construindo o Som | Instrumentos Musicais de Fabricação Própria",
+          "mobile_img": "/img/uploads/atelie-construindo-o-som.png"
         }
       ]
     },
