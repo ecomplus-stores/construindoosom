@@ -4,19 +4,14 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      }
-    ],
-    "phone_wpp": true,
-    "socials": true
+    "pages": [],
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [],
     "random": 7,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true
 }
