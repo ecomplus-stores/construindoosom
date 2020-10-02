@@ -5,7 +5,7 @@
   },
   "links_1": {
     "list_pages": false,
-    "title": "Páginas",
+    "title": "Informações",
     "list": [
       {
         "text": "Sobre nós",
@@ -34,7 +34,7 @@
     ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Instrumentos ",
     "list": []
   },
