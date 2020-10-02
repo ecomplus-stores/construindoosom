@@ -5,7 +5,7 @@
   },
   "links_1": {
     "list_pages": false,
-    "title": "Informações",
+    "title": "INFORMAÇÕES",
     "list": [
       {
         "text": "Sobre nós",
@@ -35,11 +35,11 @@
   },
   "links_2": {
     "list_categories": false,
-    "title": "Instrumentos ",
+    "title": "INSTRUMENTOS",
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "ATENDIMENTO",
     "phone_wpp": true,
     "socials": true,
     "email": true,
