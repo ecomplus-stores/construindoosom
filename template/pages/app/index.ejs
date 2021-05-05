@@ -55,6 +55,50 @@ const logo = _.settings.logo
     <div id="storefront-app">
       <%- await include('@/sections/inc/loading') %>
     </div>
+    <script type="text/javascript">
+    const routeArr = window.location.href.split('/')
+    const route = routeArr[routeArr.length - 1]
+    if(route == 'checkout') {
+      document.getElementById('checkToPay').style.display = 'hide'
+    }
+      function checkConfirm () {
+        var checkoutButton = document.querySelector('.cart__btn-checkout')
+        const checkCart = document.getElementById('check-cart')
+        if (checkCart.checked) {
+          checkoutButton.style.display = 'block'
+        } else {
+          checkoutButton.style.display = 'none'
+        }
+      }
+    </script>
+    <div class="container" id="checkToPay">
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="checkModal" id="check-cart" value="accept" onclick="checkConfirm();">
+        <label class="form-check-label" for="check-cart">
+          Aceitar termos para <b>finalizar compra</b>, conforme <a href="javascript:;" data-toggle="modal" data-target="#modal-check" style="color: #000;">
+            link
+          </a>
+        </label>
+      </div>
+    </div>
+    <div class="modal modal-center fade" id="modal-check" tabindex="-1" style="display: none;" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <button id="close-mobile" type="button" class="close" data-dismiss="modal" style="display: none; padding: 7px">
+            <span aria-hidden="true">x</span>
+          </button>
+          <div class="modal-header" style="display: flex;align-items: center; justify-content: space-between">
+            <h3 class="modal-title">Termo de aceite</h3>
+            <button type="button" class="close" data-dismiss="modal">
+              <span aria-hidden="true">x</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <img src="/img/uploads/popup-checkou.png" alt="Popup Checkout">
+          </div>
+        </div>
+      </div>
+    </div
   </main>
 
   <footer>
