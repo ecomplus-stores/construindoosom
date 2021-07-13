@@ -51,4 +51,9 @@ from = “/kalimba-de-madeira-09-laminas/”
 to = “/kalimba-de-madeira-09-lamelas/”
 status = 301
 force=true
+[[redirects]]
+from = “/kalimba-em-coco-09-laminas/”
+to = “/kalimba-em-coco-09-lamelas/”
+status = 301
+force=true
 
