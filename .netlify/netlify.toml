@@ -56,4 +56,13 @@ from = “/kalimba-em-coco-09-laminas/”
 to = “/kalimba-em-coco-09-lamelas/”
 status = 301
 force=true
-
+[[redirects]]
+from = “/mini-clavas-ipe-especial/”
+to = “/mini-claves-ipe-especial/”
+status = 301
+force=true
+[[redirects]]
+from = “/mini-clavas-bit-ton/”
+to = “/mini-claves-ipe-especial/”
+status = 301
+force=true
