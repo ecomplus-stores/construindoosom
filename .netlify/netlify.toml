@@ -91,3 +91,9 @@ from = “/kalimba-07-laminas-madeira-especial/”
 to = “/kalimba-07-lamelas-madeira-especial/”
 status = 301
 force=true
+[[redirects]]
+from = “/kalimba-de-madeira-09-lamelas/”
+to = “/kalimba-em-madeira-09-lamelas/”
+status = 301
+force=true
+
