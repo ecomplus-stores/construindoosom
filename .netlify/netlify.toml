@@ -73,7 +73,7 @@ status = 301
 force=true
 [[redirects]]
 from = “/kalimba-de-madeira-07-laminas/”
-to = “/kalimba-de-madeira-07-lamelas/”
+to = “/kalimba-em-madeira-07-lamelas/”
 status = 301
 force=true
 [[redirects]]
