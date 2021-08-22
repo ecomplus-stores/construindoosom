@@ -63,6 +63,31 @@ status = 301
 force=true
 [[redirects]]
 from = “/mini-clavas-bit-ton/”
-to = “/mini-claves-ipe-especial/”
+to = “/mini-claves-bit-ton/”
+status = 301
+force=true
+[[redirects]]
+from = “/kalimba-mini-em-coco-05-laminas/”
+to = “/kalimba-mini-em-coco-05-lamelas/”
+status = 301
+force=true
+[[redirects]]
+from = “/kalimba-de-madeira-07-laminas/”
+to = “/kalimba-de-madeira-07-lamelas/”
+status = 301
+force=true
+[[redirects]]
+from = “/kalimba-mini-em-madeira-05-laminas/”
+to = “/kalimba-mini-em-madeira-05-lamelas/”
+status = 301
+force=true
+[[redirects]]
+from = “/kalimba-09-laminas-madeira-especial/”
+to = “/kalimba-09-lamelas-madeira-especial/”
+status = 301
+force=true
+[[redirects]]
+from = “/kalimba-07-laminas-madeira-especial/”
+to = “/kalimba-07-lamelas-madeira-especial/”
 status = 301
 force=true
