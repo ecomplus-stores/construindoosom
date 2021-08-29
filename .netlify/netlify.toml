@@ -98,6 +98,6 @@ status = 301
 force=true
 [[redirects]]
 from = “/xilofone-para-treinamento-auditivo-kit-20-tons-c6-a-c7/”
-to = “/kit-xilofone-para-aperfeiçoamento-auditivo/”
+to = “/kit-xilofone-para-aperfeicoamento-auditivo/”
 status = 301
 force=true
