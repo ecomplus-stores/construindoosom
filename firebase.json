@@ -1,6 +1,56 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/mini-clavas-ipe-especial/",
+        "destination": "/mini-claves-ipe-especial/",
+        "type": 301
+      },
+      {
+        "source": "/kalimba-de-madeira-09-laminas/",
+        "destination": "/kalimba-de-madeira-09-lamelas/",
+        "type": 301
+      },
+      {
+        "source": "/kalimba-em-coco-09-laminas/",
+        "destination": "/kalimba-em-coco-09-lamelas/",
+        "type": 301
+      },
+      {
+        "source": "/mini-clavas-bit-ton/",
+        "destination": "/mini-claves-bit-ton/",
+        "type": 301
+      },
+      {
+        "source": "/kalimba-mini-em-coco-05-laminas/",
+        "destination": "/kalimba-mini-em-coco-05-lamelas/",
+        "type": 301
+      },
+      {
+        "source": "/kalimba-de-madeira-07-laminas/",
+        "destination": "/kalimba-em-madeira-07-lamelas/",
+        "type": 301
+      },
+      {
+        "source": "/xilofone-para-treinamento-auditivo-kit-20-tons-c6-a-c7/",
+        "destination": "/kit-xilofone-para-aperfeicoamento-auditivo/",
+        "type": 301
+      },
+      {
+        "source": "/kalimba-07-laminas-madeira-especial/",
+        "destination": "/kalimba-07-lamelas-madeira-especial/",
+        "type": 301
+      },
+      {
+        "source": "/kalimba-09-laminas-madeira-especial/",
+        "destination": "/kalimba-09-lamelas-madeira-especial/",
+        "type": 301
+      },
+      {
+        "source": "/kalimba-mini-em-madeira-05-laminas/",
+        "destination": "/kalimba-mini-em-madeira-05-lamelas/",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
