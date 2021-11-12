@@ -9,7 +9,12 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/xilofones?Xilofones",
+      "/metalofones?Metalofones",
+      "/tambor-de-fenda?Tambor de Fenda",
+      "/kalimbas?Kalimbas"
+    ],
     "random": 0,
     "full_width": false
   },
