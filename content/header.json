@@ -9,7 +9,9 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/construindo-o-som?Construindo o Som"
+    ],
     "random": 0,
     "full_width": false
   },
