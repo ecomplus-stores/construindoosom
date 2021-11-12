@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": " CONECTE-SE COM O SOM ARTESANAL!",
+    "text": " CONECTE-SE COM O SOM ARTESANAL !",
     "link": ""
   },
   "contacts_stripe": {
@@ -9,9 +9,7 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [
-      "/construindo-o-som?Construindo o Som"
-    ],
+    "featured": [],
     "random": 0,
     "full_width": false
   },
