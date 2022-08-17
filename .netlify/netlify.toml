@@ -107,7 +107,7 @@ to = “/percussao-diversos”
 status = 301
 force=true
 [[redirects]]
-from = “/barras-sonoras”
-to = “/metalofones”
+from = “/barras-sonoras/”
+to = “/metalofones/”
 status = 301
 force=true
