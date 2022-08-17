@@ -101,3 +101,13 @@ from = “/xilofone-para-treinamento-auditivo-kit-20-tons-c6-a-c7/”
 to = “/kit-xilofone-para-aperfeicoamento-auditivo/”
 status = 301
 force=true
+[[redirects]]
+from = “/xylo-tongs/”
+to = “/percussao-diversos/”
+status = 301
+force=true
+[[redirects]]
+from = “/barras-sonoras/”
+to = “/metalofones/”
+status = 301
+force=true
