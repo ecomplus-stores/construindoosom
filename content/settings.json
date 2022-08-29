@@ -7,17 +7,19 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/logo_para_loja.png",
   "name": "ATELIÊ CONSTRUINDO O SOM",
   "short_name": "ConstruindoOSom",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
+  "font_family": "Poppins",
   "favicon": "/img/uploads/logo-app.png",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#313c5b",
   "icon": "/img/uploads/logo-app.png",
   "store_id": 1101,
   "description": "<div align=\"justify\">Confeccionamos sob encomenda produtos personalizados para garantir instrumentos musicais artesanais de alta qualidade visando a utilização em Musicoterapia e Educação Musical.</div>",
-  "large_icon": "/img/uploads/logo.png"
+  "large_icon": "/img/uploads/construindo-fundotransparente_madeira.png"
 }
