@@ -13,11 +13,13 @@
       "/xilofones?Xilofones",
       "/metalofones?Metalofones",
       "/tambor-de-fenda?Tambor de Fenda",
+      "/percussao-diversos?Percussão Diversos",
       "/kalimbas?Kalimbas",
       "/ofertas?Ofertas"
     ],
     "random": 0,
     "full_width": false
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
