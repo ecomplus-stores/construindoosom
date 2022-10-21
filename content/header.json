@@ -20,6 +20,6 @@
     "random": 0,
     "full_width": false
   },
-  "search_input": true,
+  "search_input": false,
   "desktop_megamenu": true
 }
