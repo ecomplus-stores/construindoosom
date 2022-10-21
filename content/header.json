@@ -18,7 +18,7 @@
       "/ofertas?Ofertas"
     ],
     "random": 0,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true,
   "desktop_megamenu": false
