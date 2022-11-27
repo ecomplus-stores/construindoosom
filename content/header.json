@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "BLACK FRIDAY: ENVIOS 28/11/2022",
+    "text": "INSTRUMENTOS SOB ENCOMENDA: CONSULTE PRAZOS",
     "link": ""
   },
   "contacts_stripe": {
@@ -21,5 +21,7 @@
     "full_width": false
   },
   "search_input": true,
-  "desktop_megamenu": false
+  "desktop_megamenu": false,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
