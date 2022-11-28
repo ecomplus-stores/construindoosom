@@ -111,3 +111,8 @@ from = “/barras-sonoras/”
 to = “/metalofones/”
 status = 301
 force=true
+[[redirects]]
+from = “/pages/catalogo/”
+to = “/pages/catalogos-e-precos/”
+status = 301
+force=true
