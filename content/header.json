@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "NESTE NATAL, PRESENTEIE COM UM SOM ARTESANAL",
-    "link": ""
+    "link": "",
+    "background": "#984343"
   },
   "contacts_stripe": {
     "pages": [],
