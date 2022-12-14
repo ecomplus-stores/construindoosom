@@ -24,5 +24,5 @@
   "search_input": true,
   "desktop_megamenu": false,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": true
+  "full_width_submenu": false
 }
