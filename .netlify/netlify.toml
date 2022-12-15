@@ -47,41 +47,6 @@
   [headers.values]
     Cache-Control = "public, max-age=86400, s-maxage=600"
 [[redirects]]
-from = “/kalimba-em-coco-09-laminas/”
-to = “/kalimba-em-coco-09-lamelas/”
-status = 301
-force=true
-[[redirects]]
-from = “/kalimba-mini-em-coco-05-laminas/”
-to = “/kalimba-mini-em-coco-05-lamelas/”
-status = 301
-force=true
-[[redirects]]
-from = “/kalimba-de-madeira-07-laminas/”
-to = “/kalimba-em-madeira-07-lamelas/”
-status = 301
-force=true
-[[redirects]]
-from = “/kalimba-mini-em-madeira-05-laminas/”
-to = “/kalimba-mini-em-madeira-05-lamelas/”
-status = 301
-force=true
-[[redirects]]
-from = “/kalimba-09-laminas-madeira-especial/”
-to = “/kalimba-09-lamelas-madeira-especial/”
-status = 301
-force=true
-[[redirects]]
-from = “/kalimba-07-laminas-madeira-especial/”
-to = “/kalimba-07-lamelas-madeira-especial/”
-status = 301
-force=true
-[[redirects]]
-from = “/kalimba-de-madeira-09-lamelas/”
-to = “/kalimba-em-madeira-09-lamelas/”
-status = 301
-force=true
-[[redirects]]
 from = “/xilofone-para-treinamento-auditivo-kit-20-tons-c6-a-c7/”
 to = “/kit-xilofone-para-aperfeicoamento-auditivo/”
 status = 301
