@@ -52,16 +52,6 @@ to = “/kalimba-em-coco-09-lamelas/”
 status = 301
 force=true
 [[redirects]]
-from = “/mini-clavas-ipe-especial/”
-to = “/mini-claves-ipe-especial/”
-status = 301
-force=true
-[[redirects]]
-from = “/mini-clavas-bit-ton/”
-to = “/mini-claves-bit-ton/”
-status = 301
-force=true
-[[redirects]]
 from = “/kalimba-mini-em-coco-05-laminas/”
 to = “/kalimba-mini-em-coco-05-lamelas/”
 status = 301
@@ -98,7 +88,7 @@ status = 301
 force=true
 [[redirects]]
 from = “/xylo-tongs”
-to = “/percussao-diversos”
+to = “/diversos”
 status = 301
 force=true
 [[redirects]]
