@@ -31,7 +31,10 @@
         "url": "/pages/envio",
         "text": "Política de Envio"
       },
-      {}
+      {
+        "text": "Construindo O Som .Org",
+        "url": "https://www.construindoosom.org/"
+      }
     ]
   },
   "links_2": {
