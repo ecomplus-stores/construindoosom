@@ -1,6 +1,14 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "xilofones",
+    "metalofones",
+    "kalimbas",
+    "tambor-de-fenda",
+    "diversos",
+    "ofertas",
+    "acessorios"
+  ],
   "phone_wpp": false,
   "socials": true,
-  "alphabetical_order": true
+  "alphabetical_order": false
 }
