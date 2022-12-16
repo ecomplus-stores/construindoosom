@@ -4,7 +4,7 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": false,
+    "list_pages": true,
     "title": "INFORMAÇÕES ",
     "list": [
       {
@@ -30,7 +30,8 @@
       {
         "url": "/pages/envio",
         "text": "Política de Envio"
-      }
+      },
+      {}
     ]
   },
   "links_2": {
