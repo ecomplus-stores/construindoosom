@@ -14,7 +14,7 @@
     {
       "type": "collection-retail",
       "enabled": true,
-      "sort": "slug"
+      "sort": "sales"
     },
     {
       "type": "document-description",
