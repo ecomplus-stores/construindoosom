@@ -18,6 +18,15 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64879e3a5e6069037036978c:collections:MÉTODO WILLEMS:/metodo-willems",
+      "sort": "lowest_price",
+      "link": "MÉTODO WILLEMS (Veja+)"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "collection_id": "5f037b1e14ff772fde7db06b",
       "sort": "highest_price",
       "title": "INSTRUMENTOS ORFF  (Veja+)",
