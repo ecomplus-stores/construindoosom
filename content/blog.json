@@ -9,15 +9,6 @@
       "mobile_img": "/img/uploads/cronologia-teste.png"
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "page-title",
-      "title": "",
-      "description": ""
-    },
-    {
       "type": "blog",
       "enabled": true
     }
