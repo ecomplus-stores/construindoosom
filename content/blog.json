@@ -4,13 +4,13 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "blog",
+      "enabled": false
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/cronologia-teste.webp",
       "mobile_img": "/img/uploads/cronologia-teste.png"
-    },
-    {
-      "type": "blog",
-      "enabled": false
     }
   ]
 }
