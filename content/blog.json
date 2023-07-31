@@ -1,14 +1,21 @@
 {
-  "title": "Blog",
-  "meta_title": "Blog",
-  "meta_description": "Blog",
+  "title": "Construindo O Som",
+  "meta_title": "",
+  "meta_description": "",
   "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/cronologia-teste.png",
+      "mobile_img": "/img/uploads/cronologia-teste.png"
+    },
     {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Cronologia",
+      "description": "Cronologia Ateliê Construindo O Som | Roberto Luis Castro"
     },
     {
       "type": "blog",
