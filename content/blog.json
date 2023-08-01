@@ -5,8 +5,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/cronologia-teste.jpg",
-      "mobile_img": "/img/uploads/cronologia-teste.png"
+      "img": "/img/uploads/cronologia-teste.webp",
+      "mobile_img": "/img/uploads/cronologia-mobile2.png"
     }
   ]
 }
