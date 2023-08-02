@@ -5,8 +5,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/cronologia-mobile_4.webp",
-      "mobile_img": "/img/uploads/cronologia-mobile4.png"
+      "img": "/img/uploads/cronologia.webp",
+      "mobile_img": "/img/uploads/cronologia.png"
     }
   ]
 }
