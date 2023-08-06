@@ -6,7 +6,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/cronologia.webp",
-      "mobile_img": "/img/uploads/cronologia.png"
+      "mobile_img": "/img/uploads/cronologia.png",
+      "alt": "Cronologia"
     }
   ]
 }
