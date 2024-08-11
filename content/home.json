@@ -59,6 +59,14 @@
           "mobile_img": "/img/uploads/kalimbas_grid.png"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66b9322e86679971c6407327:collections:SECE:/sece",
+      "link": "SECE (Veja+)"
     }
   ]
 }
