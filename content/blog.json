@@ -4,10 +4,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "info-bar",
-      "enabled": false
-    },
-    {
       "type": "page-title"
     },
     {
@@ -20,7 +16,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "A linha do tempo do Ateliê confunde-se com a própria trajetória pessoal de Roberto Luis Castro. Tentamos sintetizar os eventos mais significativos na construção da sua proposta de trabalho, buscando entender: quando tudo começou, por que, como e... o que o músico pretende alcançar.\nConheça um pouco da história do Ateliê acessando a linha do tempo resumida.\nVeja a Cronologia."
+      "markdown": "Conteúdos e Informações sobre produtos e atividades do Ateliê Construindo O Som"
     }
   ]
 }
