@@ -17,6 +17,10 @@
     {
       "type": "custom-content",
       "markdown": "Conteúdos e Informações sobre produtos e atividades do Ateliê Construindo O Som"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }
