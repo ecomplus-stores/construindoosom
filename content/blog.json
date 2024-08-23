@@ -4,12 +4,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/cronologia.webp",
-      "mobile_img": "/img/uploads/cronologia.png",
-      "alt": "Cronologia"
-    },
-    {
       "type": "info-bar",
       "enabled": false
     },
