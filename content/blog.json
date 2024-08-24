@@ -7,19 +7,11 @@
       "type": "page-title"
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "blog",
-      "enabled": true
-    },
-    {
       "type": "custom-content",
       "markdown": "Conteúdos e Informações sobre produtos e atividades do Ateliê Construindo O Som"
     },
     {
-      "type": "breadcrumbs",
+      "type": "blog",
       "enabled": true
     }
   ]
