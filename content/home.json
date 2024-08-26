@@ -68,10 +68,6 @@
           "mobile_img": "/img/uploads/kalimbas_grid.png"
         }
       ]
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }
