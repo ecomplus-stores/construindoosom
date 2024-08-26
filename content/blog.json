@@ -2,17 +2,5 @@
   "title": "BLOG CONSTRUINDO O SOM",
   "meta_title": "",
   "meta_description": "",
-  "sections": [
-    {
-      "type": "page-title"
-    },
-    {
-      "type": "custom-content",
-      "markdown": "Conteúdos e Informações sobre produtos e atividades do Ateliê Construindo O Som"
-    },
-    {
-      "type": "blog",
-      "enabled": true
-    }
-  ]
+  "sections": []
 }
