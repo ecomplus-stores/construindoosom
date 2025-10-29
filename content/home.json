@@ -4,8 +4,9 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner1200x313_2025.webp",
-      "mobile_img": "/img/uploads/banner1200x313_2025.png"
+      "img": "/img/uploads/banner_blackfriday_2025.webp",
+      "mobile_img": "/img/uploads/banner_blackfriday_2025.jpg",
+      "link": "https://loja.construindoosom.com.br/ofertas"
     },
     {
       "type": "collection-shelf",
