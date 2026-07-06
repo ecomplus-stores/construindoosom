@@ -53,6 +53,9 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/site-protegido.png"
     }
   ],
   "payment_methods": {
