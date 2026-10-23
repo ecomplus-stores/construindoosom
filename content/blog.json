@@ -4,6 +4,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "page-title"
     }
   ]
