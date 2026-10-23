@@ -2,5 +2,10 @@
   "title": "BLOG CONSTRUINDO O SOM",
   "meta_title": "",
   "meta_description": "",
-  "sections": []
+  "sections": [
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
 }
