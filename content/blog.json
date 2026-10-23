@@ -1,6 +1,10 @@
 {
-  "title": "BLOG CONSTRUINDO O SOM",
+  "title": "BLOG DO ATELIÊ",
   "meta_title": "",
   "meta_description": "",
-  "sections": []
+  "sections": [
+    {
+      "type": "page-title"
+    }
+  ]
 }
