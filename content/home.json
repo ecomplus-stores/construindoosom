@@ -1,6 +1,6 @@
 {
   "meta_title": "Ateliê Construindo O Som | Blog da Loja",
-  "meta_description": "Instrumentos musicais artesanais desenvolvidos por Roberto Luis Castro, músico, educador, luthier especializado em instrumentos melódicos de percussão.",
+  "meta_description": "Blog da loja do Ateliê Construindo O Som: dicas, novidades, informações.",
   "sections": [
     {
       "type": "collection-shelf",
@@ -59,7 +59,8 @@
       "type": "responsive-banner",
       "img": "/img/uploads/blog-loja.png",
       "mobile_img": "/img/uploads/blog-loja.png",
-      "link": "https://loja.construindoosom.com.br/blog"
+      "link": "",
+      "alt": "Blog da Loja"
     },
     {
       "type": "blog",
