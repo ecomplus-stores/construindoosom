@@ -62,6 +62,10 @@
       ]
     },
     {
+      "type": "custom-content",
+      "markdown": "# B﻿LOG DA LOJA"
+    },
+    {
       "type": "blog",
       "enabled": true
     }
