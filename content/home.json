@@ -56,10 +56,6 @@
       ]
     },
     {
-      "type": "custom-content",
-      "markdown": "# B﻿LOG DA LOJA"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/blog-da-loja.png",
       "mobile_img": "/img/uploads/blog-da-loja.png",
