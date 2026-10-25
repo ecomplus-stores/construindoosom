@@ -56,15 +56,15 @@
       ]
     },
     {
+      "type": "blog",
+      "enabled": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/blog-loja.png",
       "mobile_img": "/img/uploads/blog-loja.png",
       "link": "",
       "alt": "Blog da Loja"
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }
