@@ -3,6 +3,12 @@
   "meta_description": "Loja do Ateliê Construindo O Som",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner1200x313_2025.webp",
+      "mobile_img": "/img/uploads/banner1200x313_2025.png",
+      "link": "https://loja.construindoosom.com.br/ofertas"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "title": "INICIAÇÃO MUSICAL  (Veja+)",
