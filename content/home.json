@@ -59,7 +59,7 @@
       "type": "responsive-banner",
       "img": "/img/uploads/blog-loja.png",
       "mobile_img": "/img/uploads/blog-loja.png",
-      "link": "",
+      "link": "/blog",
       "alt": "Blog da Loja"
     },
     {

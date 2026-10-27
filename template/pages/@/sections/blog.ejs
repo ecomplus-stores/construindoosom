@@ -1,6 +1,8 @@
 <%
 const posts = _.cms('posts')
 const themeCustom = _.settings.theme.custom || ''
+// na Home mostra só os posts mais recentes, com chamada para o blog
+const limit = opt.limit || (_.pageName === 'home' ? 3 : 0)
 if (Array.isArray(posts) && posts.length) {
   %>
     <div class="blog my-4 my-lg-5">
@@ -16,7 +18,8 @@ if (Array.isArray(posts) && posts.length) {
           postsList.sort((a, b) => {
             return b.date > a.date ? 1 : -1
           })
-          postsList.forEach(post => { 
+          const shownPosts = limit ? postsList.slice(0, limit) : postsList
+          shownPosts.forEach(post => { 
             const { title, slug, thumbnail, description, date } = post 
             %>
             <div class="col col-md-6 col-lg-4">
@@ -58,6 +61,14 @@ if (Array.isArray(posts) && posts.length) {
             </div>
           <% }) %>
         </div>
+        <% if (limit) { %>
+          <div class="blog__more text-center mt-2">
+            <a href="/blog" class="btn btn-primary">
+              Leia mais no blog
+              <i class="i-chevron-right"></i>
+            </a>
+          </div>
+        <% } %>
       </div>
     </div>
   <%
