@@ -1,8 +1,8 @@
 <%
 const posts = _.cms('posts')
 const themeCustom = _.settings.theme.custom || ''
-// na Home mostra só os posts mais recentes, com chamada para o blog
-const limit = opt.limit || (_.pageName === 'home' ? 3 : 0)
+// fora da página /blog mostra só os posts mais recentes, com chamada para o blog
+const limit = opt.limit || (_.pageName === 'blog' ? 0 : 3)
 if (Array.isArray(posts) && posts.length) {
   %>
     <div class="blog my-4 my-lg-5">
