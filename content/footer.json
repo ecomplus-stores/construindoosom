@@ -8,10 +8,6 @@
     "title": "SEÇÕES DO SITE",
     "list": [
       {
-        "text": "Sobre nós",
-        "url": "/pages/sobre-nos"
-      },
-      {
         "text": "Catálogos e Preços",
         "url": "/pages/catalogos-e-precos"
       },
@@ -30,6 +26,10 @@
       {
         "url": "/pages/envio",
         "text": "Política de Envio"
+      },
+      {
+        "text": "Sobre nós",
+        "url": "/pages/sobre-nos"
       }
     ]
   },
